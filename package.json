@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-leaftlet-socket.io",
+  "description": "",
+  "main": "indx.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "autor": "",
+  "licence": "ISC",
+  "dependencies": {
+    "ejs-mate": "^4.0.0",
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
